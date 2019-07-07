@@ -36,7 +36,7 @@ Panelist profiles available at the end of the article.
 *Who should be doing transcultural type design?*
 
 Peiran：在讨论母语／非母语者做文字设计时，我们或许可以区分「准不准做」和「能不能做好」。对于非母语设计师来说，「准不准做」是在判断在后殖民的语境下的道德正义性，是最低限度的尊重；而「能不能做好」则是在「准做」之后，推动设计、文化和语言上的创新。  
-When discussing type design done by native versus non-native speakers, we need to make a distinction between who is allowed to do it, and who can do it well. For non-native designers, there is a need to take into consideration the post-colonial impact on the native language itself. And whether non-native designers should take a step back and let  
+When discussing type design done by native versus non-native speakers, we need to make a distinction between who is allowed to do it, and who can do it well. For non-native designers, there is a need to take into consideration the post-colonial impact on the indigenous language and culture itself. And whether it's appropriate for non-native designers to do such work. If that's sorted, then we can talk about promoting innovation in designing for transcultural typography.
 
 CP：就像之前大曲都市（Toshi Omagari）先生与我们讨论时提到的：母语者未必能设计母语的文字，同理，非母语者也未必不能做跨文化的设计，说不定还能做得更好。  
 Just like Toshi Omagari mentioned in our previous discussions, native speakers don't necessarily have the skills to design for their native scripts, and conversely, it does not mean that non-native speakers are unable to do transcultural type design. They might even excel at it and do it better.
@@ -48,7 +48,7 @@ To me, designing foreign characters is a process of “Annäherung” (approach)
 *What sort of requirements in terms of both the aesthetics and techniques determine if transcultural type design “is done well”? In theory, what should designers looking to move in this direction look out for and work on?*
 
 Tien-Min：当文字作为一种图像创作时，对于可读性以及是否符合母语者的习惯，或许不需要太严格，因为它不是以功能导向的。但是当文字设计作为一种「产品」时（字体设计），则应该以使用者为第一考量，因为字体设计的目的是阅读，审美标准当以阅读者为主（即能够阅读该文字者，一般为母语者）。难以阅读的字体就像一张不符合人体工学的椅子一样坐得难受。  
-If you approach type design as a form of illustration, then perhaps legibility and adhering to native readers sensibilities can be seen as secondary, because such design is informed by function. But when you are designing a typeface for practical applications, your focus needs to be on the needs of the reader (and most readers would be native speakers of the language). Reading an illegible typeface is akin to sitting in a chair that does not suit human proportions.
+If you approach type design as a form of illustration, then perhaps legibility and adhering to native readers sensibilities can be seen as secondary, because such design is informed by function. But when you are designing a typeface for practical applications, your focus needs to be on the needs of the reader (and most readers would be native speakers of the language). Reading an illegible typeface is as uncomfortable as sitting in a chair that does not suit human proportions.
 
 Xiyao：能不能做好，与设计师是否来自于这个文化圈不一定有关系，但与是否认识该文字，还是有一点关系的。  
 Whether or not the designer is from a particular culture is not the main factor for whether they can do the job well. But knowledge and familiarity of the script and its characters does matter.
@@ -57,9 +57,10 @@ CP：你可能对这门语言不熟悉，但是对于文字造型、书写规律
 You could be unfamiliar with the language itself, but you must have a key understanding of its letterforms and characters, calligraphic and typographic rules. Even so, opinions on the end result could still be fairly polarised. For example, Tengis Khasbagana finds the letters in Toshi Omagari's Mongolian typeface too tall. But even as a Mongolian designer, Tengis's sans-serif Mongolian typeface may not be accepted by all Mongolian readers as well.
 
 Peiran：字形是死的，人是活的。正如同词典的收词，以广泛流行的用法而不断更新一样，「能不能做好」其中好的标准，必然是以「母语使用者看起来自不自然、美不美观」为最终标准。比如美籍华人设计师 Juliet Shen 为美国原住民 Lushootseed 部落设计字体，花费了很长时间与部落沟通、了解他们的书写和沟通习惯，更特别提到「部落长老一致认为的字形写法与 Unicode 规范相反，此时就应该尊重部落长老的意思而非一味遵循 Unicode」。  
-Fonts are dead, people are alive. Just like entries in the dictionary are constantly being updated as language usage evolves over time, “doing the job well” depends on whether native speakers find the typeface natural and aesthetically pleasing. In order to design a Lushootseed font, Juliet Shen spent 
+Fonts are dead, people are alive. Just like entries in the dictionary are constantly being updated as language usage evolves over time, “doing the job well” depends on whether native speakers find the typeface natural and aesthetically pleasing. In order to design a Lushootseed font, Juliet Shen spent a lot of time among the tribes, developing a deep understanding of the aesthetic traditions of their language and culture. 
 
-Chuyang：我觉得是否做得好的标准是不一定统一的。比如中日韩地区对汉字审美标准有相对统一的共识，但不代表这是永远的标准，或者绝对正确的标准，新的探索是没问题的。一些质量差的字体，你也没法不允许它出现，还是要看市场的反馈。我觉得出发点比较重要，如果是打着创新的名义来包装自己，那是不太好；但如果是为了尝试，哪怕水平不够或者观点不一样，但是去探讨尝试的方法、设计的概念等等，那也还行。
+Chuyang：我觉得是否做得好的标准是不一定统一的。比如中日韩地区对汉字审美标准有相对统一的共识，但不代表这是永远的标准，或者绝对正确的标准，新的探索是没问题的。一些质量差的字体，你也没法不允许它出现，还是要看市场的反馈。我觉得出发点比较重要，如果是打着创新的名义来包装自己，那是不太好；但如果是为了尝试，哪怕水平不够或者观点不一样，但是去探讨尝试的方法、设计的概念等等，那也还行。  
+I don't think there is a unified standard for what is considered “doing the job well”. For example, although the CJK regions have a relatively unified standard on the aesthetics of Han characters, they are not set in stone. There is nothing wrong with exploring something new. You can't prevent bad quality typefaces from being created. Much is dependent on market demand. I feel that intent is more important here. If you are innovating for innovation's sake, that doesn't seem like a good approach. But if you're coming from a place of experimentation and 
 
 Mira：放在今天看来，文字设计满足母语者需求似乎理所当然。但历史上跨文化的文字设计大多缘起于信息沟通不畅，也受制于此。比如十九世纪传教士在中国铸造金属拼合活字，是由于没有在当地文化中找到同等参照对象，从本国文化出发便成了唯一途径。现今，尽管信息交流不成问题，但我们还是能看到很多所谓「中国风格」的西文字体（比如外国中餐外卖常用字体风格 Chop Suey / Wonton），或者试图用西文理性化思路来制作的实验性的中文字体（比如 Ming Romantic）。这大概是群体审美去本位化的一个必经过程：从猎奇，到自以为然的模仿，再到开始真正了解。特别突出的个体可以跳过前两步，群体还是很难。
 
